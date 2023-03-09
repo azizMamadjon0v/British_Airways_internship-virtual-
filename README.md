@@ -3,6 +3,9 @@ Virtual data sceince internship in British Airways
 
 Special thanks to theforage.com
 
-Tasks:
+Task1:
 - Web scraping of public reviews
-- Sentiment reviews
+- Identify sentiment reviews
+
+Task 2:
+- Build a predictive model of customer behavior
