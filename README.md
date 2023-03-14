@@ -8,4 +8,4 @@ Task1:
 - Identify sentiment reviews
 
 Task 2:
-- Build a predictive model of customer behavior
+- Build a predictive model of customer behavior using ML models
